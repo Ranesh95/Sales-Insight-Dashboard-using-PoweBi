@@ -4,7 +4,6 @@
 This project I learn from code basics youtube channel. you can find link is below.
 
 
-[code basics youtube Playlist](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
 
 ## Problem statement
@@ -26,8 +25,6 @@ visual representation to make data driven decisions. So, he hired a team of data
 ----
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
 and success criteria  of our project.
-
-<img src ="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/AIMS%20grid%20sales%20insights.jpg">
 
 ## Steps Followed in this project
 
@@ -66,24 +63,6 @@ and success criteria  of our project.
 5. Learned about some major analytical visuals and reports.
 
 
-## Final result 
-
-#### Dashboard KPI Page
-
--------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20KPI.png" class="center">
- 
- #### Dashboard Performance Insights
-
--------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Performance%20Insights.png" class="center">
- 
-
- #### Dashboard Profit Analysis
- 
- -----------
- 
-  <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Profit%20Analysis.png" class="center">
 
 
 
